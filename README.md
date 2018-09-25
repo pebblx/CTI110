@@ -1,2 +1,4 @@
-# CTI110
-CTI110 REPOSITORY
+# CTI 110
+Created for P2LAB1
+Evans
+09-25-18
